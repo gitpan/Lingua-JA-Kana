@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                Lingua-JA-Kana
-version:             0.01
+version:             0.02
 abstract:            Kata-Romaji related utilities
 license:             ~
 generated_by:        ExtUtils::MakeMaker version 6.36_01
